@@ -1,11 +1,11 @@
 # 4103-102-OpSys-Biradhavolu
 
-![Sai Avinash Biradhavolu]()
+![Sai Avinash Reddy Biradhavolu]()
 
-First Name : Sai Avinash
+First Name : Sai Avinash Reddy
 
 Last Name  : Biradhavolu
 
 Email      : avinash9240@gmail.com
 
-URL :http://67.205.136.88/
+URL        :http://67.205.136.88/
