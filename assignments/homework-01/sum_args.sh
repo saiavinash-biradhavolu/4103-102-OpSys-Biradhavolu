@@ -1,3 +1,3 @@
 #!/bin/bash
-IFS=+;
+IFS=+
 echo  " The sum of numbers is: $(($*))"
