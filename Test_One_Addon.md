@@ -20,13 +20,13 @@ Multiprocessing is defined as the use of two or more central processing units (C
 CPUs are in a close communication sharing the computer bus, memory and other peripheral devices. These systems are referred as tightly
 coupled systems.
 ####Example:
-The examples of operating system that perform multiprogramming are Windows NT, 2000, XP and Unix.
-###4.Multi-processing:
+The examples of operating system that perform multiprocessing are Windows NT, 2000, XP and Unix.
+###4.Multi-threading:
 ####Definition:
 Multithreading is defined as the ability of a central processing unit or a single core in a multi-core processor to execute multiple
 processes or threads concurrently, appropriately supported by the operating system.
 ####Example:
-The examples of operating system that perform multiprogramming are Linux,Windows from 95 to XP,IRIX, HP-UX and Tru64 UNIX.
+The examples of operating system that perform multithreading are Linux,Windows from 95 to XP,IRIX, HP-UX and Tru64 UNIX.
 # Review Questions From Chapters 3
 ####1.What is an instruction trace?
 Instruction trace is defined as the sequence of executing instruction for the process of a program.
